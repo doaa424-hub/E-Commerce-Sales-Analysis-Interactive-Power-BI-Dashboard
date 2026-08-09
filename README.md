@@ -1,0 +1,2 @@
+# E-Commerce-Sales-Analysis-Interactive-Power-BI-Dashboard
+Analyzed a comprehensive retail dataset to identify sales trends, customer segmentation, and product performance. Cleaned and structured raw data using SQL and Python (Pandas), performed Exploratory Data Analysis (EDA), and built an interactive Power BI dashboard featuring dynamic KPIs and visual insights to drive business decision-making.
